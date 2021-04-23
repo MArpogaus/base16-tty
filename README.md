@@ -1,4 +1,4 @@
-# Base16 Template for Terminals
+# Base16 Template for (\*nix) TTY consoles
 
 [Base16](http://chriskempson.com/projects/base16/) template to generate [ANSI escape sequences](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors) for terminal colors.
 
